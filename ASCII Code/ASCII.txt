@@ -1,0 +1,27 @@
+ASCII Code 
+
+Its a method thats used to describe texts(numbers/letters/symbols) in the computer
+So that its a representation any letter,symbol or number in (7 BITS).
+
+The ASCII code is in Decimal system then the copmuter translate it to Binary system.
+
+Every letter,symbol or number has it own code like the letter A in ASCII code Represented (65).
+
+You can write with ASCII code by holding (alt+x) then write the code and release your hand.
+
+Here is a c++ code that shows every letter,number and symbols in order 
+
+
+#include <iostream>
+using namespace std;
+main()
+{
+    for(int i=0;i<=255;++i)
+{
+        cout<<"i"<<endl;
+    }
+
+}
+
+This is an image that shows some of the ASCCI code letters:
+ 
